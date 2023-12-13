@@ -1,0 +1,25 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid a8a608be-23b4-45f9-ae00-c194e8fbffbf)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Код виробника: RP SMA F to IPEX-1\n\nХарактеристики:\n\nрабочая частота: до 3 ГГц\nимпеданс: 50 Ом\nноминальное напряжение: 60 В\nразъем антенны: PR-SMA-jack 6.2 мм (Female)\nразъем: U.FL 3 мм (IPEX1)\nкабель: коаксиальный RF113\nдлина: 15 см\nрассчетное количество разъединений: 30"
+    (at 103.505 68.961 0)
+    (effects (font (size 1.27 1.27) bold) (justify left bottom))
+    (uuid 632e7154-3ed8-4df6-8bea-b7c472721e26)
+  )
+
+  (hierarchical_label "IPEX1_F" (shape input) (at 193.802 43.815 0)
+    (effects (font (size 1.27 1.27) bold) (justify left))
+    (uuid 42f4fca9-6c96-4df1-afcb-e87dedda1854)
+  )
+  (hierarchical_label "OUT_SMA_M" (shape input) (at 193.675 51.181 0)
+    (effects (font (size 1.27 1.27) bold) (justify left))
+    (uuid dfd855a2-d17b-4b5d-bf41-8fbd0958fcb8)
+  )
+)
